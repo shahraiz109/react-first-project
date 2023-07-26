@@ -1,0 +1,20 @@
+.navbar a:hover{
+  color: green;
+}
+.menu_active{
+font-weight: bold;
+border-bottom: 2px solid #00000039;
+}
+.btn-get-started:hover{
+  color: blue;
+  background-color: brown;
+  border: 2px solid black;
+}
+.brand-name{
+  color: blue;
+}
+.img-fluid{
+  display: block;
+  margin-left: 100px;
+margin-bottom: 200px;
+}
